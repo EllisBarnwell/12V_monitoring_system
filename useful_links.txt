@@ -10,3 +10,5 @@ http://kookye.com/2017/06/01/design-a-voltmeter-with-the-raspberry-pi-board-and-
 Useful thread on canalworld forum. Includes some code that probably need refactoring in order to compile and run
 https://www.canalworld.net/forums/index.php?/topic/69439-monitoring-my-electrics-with-a-raspberry-pi/&
 
+Energy monitoring through a raspberry pi
+https://www.hackster.io/ControlEverything/energy-monitoring-through-a-raspberry-pi-190a2a

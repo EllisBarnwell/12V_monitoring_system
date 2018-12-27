@@ -2,7 +2,6 @@
 
 # This is the code from https://www.canalworld.net/forums/index.php?/topic/69439-monitoring-my-electrics-with-a-raspberry-pi/&page=2
 # it has lost all indentation, so a bit useless......... But might give some examples.
- 
 
 import numpy as np
 

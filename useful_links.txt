@@ -17,4 +17,5 @@ A python script that reads voltage....  Don't know how I found this and there is
 explanation of how the ADC is wored up.
 http://osoyoo.com/driver/voltage.py
 
-
+A page that gives formula to work out celsius temperature
+https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor

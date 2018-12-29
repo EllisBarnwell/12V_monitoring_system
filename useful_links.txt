@@ -16,3 +16,5 @@ https://www.hackster.io/ControlEverything/energy-monitoring-through-a-raspberry-
 A python script that reads voltage....  Don't know how I found this and there is no 
 explanation of how the ADC is wored up.
 http://osoyoo.com/driver/voltage.py
+
+

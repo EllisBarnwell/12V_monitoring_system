@@ -1,0 +1,7 @@
+Following instructions from https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest
+
+I installed the Adafruit Circuit stuff doing:
+"sudo pip3 install adafruit-circuitpython-mcp3xxx"
+
+Personally I don't like using pip because you end up with things at different levels
+Didn't seem to be another option though.

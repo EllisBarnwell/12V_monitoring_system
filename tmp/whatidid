@@ -1,3 +1,6 @@
+This got me nowhere so I actually did the deprecated stuff which can be seen in 
+simpletest.py
+
 Following instructions from https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/latest
 
 I installed the Adafruit Circuit stuff doing:

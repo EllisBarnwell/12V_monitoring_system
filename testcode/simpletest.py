@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 # This is taken from Adafruit examples...
 # it requies adafruit stuff, so may not be that useful.
 # it comes from a github repository

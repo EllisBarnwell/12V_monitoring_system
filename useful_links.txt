@@ -22,3 +22,5 @@ https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor
 
 Some stuff about SPI
 https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all
+and more
+https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/spi-devices

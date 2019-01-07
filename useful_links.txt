@@ -19,3 +19,6 @@ http://osoyoo.com/driver/voltage.py
 
 A page that gives formula to work out celsius temperature
 https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor
+
+Some stuff about SPI
+https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all

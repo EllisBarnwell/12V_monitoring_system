@@ -24,3 +24,7 @@ Some stuff about SPI
 https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all
 and more
 https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/spi-devices
+
+Picture of the MCP3008 wired to RPi
+https://www.raspberrypi-spy.co.uk/wp-content/uploads/2013/10/MCP3008_TMP36.png
+https://www.raspberrypi-spy.co.uk/2013/10/analogue-sensors-on-the-raspberry-pi-using-an-mcp3008/

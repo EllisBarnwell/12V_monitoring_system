@@ -28,3 +28,6 @@ https://learn.adafruit.com/circuitpython-basics-i2c-and-spi/spi-devices
 Picture of the MCP3008 wired to RPi
 https://www.raspberrypi-spy.co.uk/wp-content/uploads/2013/10/MCP3008_TMP36.png
 https://www.raspberrypi-spy.co.uk/2013/10/analogue-sensors-on-the-raspberry-pi-using-an-mcp3008/
+
+an mcp3008 using spi
+https://electronicshobbyists.com/raspberry-pi-analog-sensing-mcp3008-raspberry-pi-interfacing/
